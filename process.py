@@ -1,5 +1,5 @@
 num = int(input())
-if num < 5:
-    print(this num is bigger than 5)
+if (num%2==0):
+    print("this num is even number")
 else:
-    print(this is not greater than 5)
+    print("this is odd number")
