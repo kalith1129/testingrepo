@@ -6,3 +6,8 @@ else:
     print(this is not greater than 5)
 
 num()
+
+def multiply(x,y):
+    return x*y
+ res = multiply(10,3)
+print(res)
