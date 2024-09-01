@@ -12,4 +12,7 @@ def multiply(x,y):
  res = multiply(10,3)
 print(res)
 
- 
+def min(x,y):
+    return x-y
+
+min(55,34)
