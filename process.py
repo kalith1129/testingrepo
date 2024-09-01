@@ -16,3 +16,6 @@ def min(x,y):
     return x-y
 
 min(55,34)
+
+for i in range(11):
+     print('kalith')
